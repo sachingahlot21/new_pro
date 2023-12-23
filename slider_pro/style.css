@@ -1,0 +1,20 @@
+.imgdiv{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 50px;
+ }
+ .sliderdiv{
+     display: flex;
+     justify-content: center;
+     align-content: center;
+     margin-top: 50px;
+     margin: auto;
+ width: 1000px;
+ height:100px;
+ 
+ }
+ 
+ #brightness_slider{
+ width: 600px;
+ }
