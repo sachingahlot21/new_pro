@@ -1,0 +1,32 @@
+#mainmenu{
+    width: 400px;
+    height:400px;
+    background-color: gray;
+    display: none;
+    overflow: scroll;
+    margin-top: 5px;
+}
+.maincontent{
+    width: 400px;
+    height:400px;
+    margin-top: 0;
+}
+#mainmenu::-webkit-scrollbar {
+    display: none;
+}
+.menudiv{
+    margin-left: 5px;  
+    border-bottom: 5px solid black  ;
+}
+#btnup{
+    position: fixed;
+    left: 350px;
+    top: 100px;
+   
+}
+#btndown{
+    position: fixed;
+    bottom:100px;
+    left: 350px;
+    
+}
